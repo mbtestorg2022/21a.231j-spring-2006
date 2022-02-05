@@ -28,12 +28,57 @@ You will write 3 papers, each counting for 25% of your final grade. The first pa
 
 ### Grades
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation and Reader Responses | 25% |
-| First Paper | 25% |
-| Second Paper | 25% |
-| Third Paper | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation and Reader Responses
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First Paper
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second Paper
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Third Paper
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
@@ -56,34 +101,349 @@ The first two papers are due in Lec #9 and Lec #17. You will get the papers back
 Calendar
 --------
 
-| Lec # | Topics | Key Dates |
-| --- | --- | --- |
-| 1 | Introduction to the Study of Gender and Sexuality: The Sex/Gender System |  |
-| {{< td-colspan 3 >}}**Part I: Concepts and Themes**{{< /td-colspan >}} |||
-| 2 | Is Sex to Gender as Nature is to Culture? | Reading response due in class |
-| 3 | Cultural Acquisition of Gender as Learned Behavior |  |
-| {{< td-colspan 3 >}}**Part II: Gender as a Social Institution**{{< /td-colspan >}} |||
-| 4 | Arranged Marriage and Inheritance in Agricultural and Pastoral Societies |  |
-| 5 | Science, Republicanism and The Woman Question | Handout paper topics  {{< br >}}  {{< br >}}Make appointment to meet with writing tutor in the next couple of weeks |
-| 6 | Social Reproduction: Reproducing Formal and Informal Class Relations | Reading response due in class |
-| 7 | Women in the Global Economy (No Lecture) |  |
-| 8 | Gender, Work and Professionalization |  |
-| 9 | Gender and Agency | First paper due |
-| 10 | Appetite, Image, Control |  |
-| {{< td-colspan 3 >}}**Part III: Gender and Sexuality as Identity**{{< /td-colspan >}} |||
-| 11 | The Invention of Sexuality-based Identities |  |
-| 12 | Coming Out and Leaving the Closet Behind | First paper rewrite due |
-| 13 | Other Genders/Sexualities |  |
-| 14 | Transvestite Lives and Sex Work | Reading response due in class |
-| 15 | Transgender and Transexualism in the U.S. |  |
-| 16 | Intersexuality |  |
-| 17 | Do Western Sexual Identities Travel? | Second paper due |
-| 18 | Sexism, Racism and Violence |  |
-| {{< td-colspan 3 >}}**Part IV: Reproductive Politics and Gendered Citizenship**{{< /td-colspan >}} |||
-| 19 | De-essentializing Sex/Gender/Kinship | Reading response due in class |
-| 20 | Fetal Images and Abortion Debates | Second paper rewrite due |
-| 21 | Nationalism, Reproductive Politics and Gender |  |
-| 22 | Making Modern Mothers | Reading response due in class (can include questions for the author!)  {{< br >}}  {{< br >}}Proposal for third paper due |
-| 23 | Making Modern Mothers (cont.) |  |
-| 24 | Student Presentations |  |
-| 25 | Student Presentations (cont.) | Third paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Study of Gender and Sexuality: The Sex/Gender System
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part I: Concepts and Themes**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Is Sex to Gender as Nature is to Culture?
+{{< tdclose >}}
+{{< tdopen >}}
+Reading response due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Cultural Acquisition of Gender as Learned Behavior
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part II: Gender as a Social Institution**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Arranged Marriage and Inheritance in Agricultural and Pastoral Societies
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Science, Republicanism and The Woman Question
+{{< tdclose >}}
+{{< tdopen >}}
+Handout paper topics  
+  
+Make appointment to meet with writing tutor in the next couple of weeks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Social Reproduction: Reproducing Formal and Informal Class Relations
+{{< tdclose >}}
+{{< tdopen >}}
+Reading response due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Women in the Global Economy (No Lecture)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Gender, Work and Professionalization
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Gender and Agency
+{{< tdclose >}}
+{{< tdopen >}}
+First paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Appetite, Image, Control
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part III: Gender and Sexuality as Identity**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The Invention of Sexuality-based Identities
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Coming Out and Leaving the Closet Behind
+{{< tdclose >}}
+{{< tdopen >}}
+First paper rewrite due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Other Genders/Sexualities
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Transvestite Lives and Sex Work
+{{< tdclose >}}
+{{< tdopen >}}
+Reading response due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Transgender and Transexualism in the U.S.
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Intersexuality
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Do Western Sexual Identities Travel?
+{{< tdclose >}}
+{{< tdopen >}}
+Second paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Sexism, Racism and Violence
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part IV: Reproductive Politics and Gendered Citizenship**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+De-essentializing Sex/Gender/Kinship
+{{< tdclose >}}
+{{< tdopen >}}
+Reading response due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Fetal Images and Abortion Debates
+{{< tdclose >}}
+{{< tdopen >}}
+Second paper rewrite due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Nationalism, Reproductive Politics and Gender
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Making Modern Mothers
+{{< tdclose >}}
+{{< tdopen >}}
+Reading response due in class (can include questions for the author!)  
+  
+Proposal for third paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Making Modern Mothers (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Third paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
